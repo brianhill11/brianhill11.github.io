@@ -3,14 +3,14 @@ main:
   - title: "CV"
     url: /files/BrianHill_CV_20200528.pdf
   
-  - title: "Publications"
-    url: /publications/
+    #- title: "Publications"
+    #url: /publications/
 
     #- title: "Talks"
     #url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+    #- title: "Teaching"
+    #url: /teaching/    
     
   - title: "Learning Resources"
     url: /portfolio/
