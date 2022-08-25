@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist at Optum Labs, focused on using machine learning to improve healthcare"
   location         : "Los Angeles, CA"
-  employer         : "Optum Labs"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=brian+l.+hill"
   googlescholar    : "https://scholar.google.com/citations?user=UnyYursAAAAJ&hl=en"
   email            :
