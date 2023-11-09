@@ -18,6 +18,9 @@ My prior industry experience includes a summer at [Microsoft Research](https://w
 
 *- denotes joint authorship
 
+**Brian L. Hill**, Melika Emami, Vijay S. Nori, Aldo Cordova-Palomera, Robert Tillman, Eran Halperin; "CHIRon: A Generative Foundation Model for Structured Sequential Medical Data" - *Deep Generative Models for Health (DGM4H) Workshop, NeurIPS (2023).*
+[[paper]](https://openreview.net/forum?id=qV1sBPrfRL)
+
 Joel Stremmel, **Brian L. Hill**, Jeffrey Hertzberg, Jaime Murillo, Llewelyn Allotey, Eran Halperin; "Extend and Explain: Interpreting Very Long Language Models" - *Proceedings of the 2nd Machine Learning for Health (ML4H) symposium (2022).*
 [[paper]](https://proceedings.mlr.press/v193/stremmel22a.html) [[preprint]](https://arxiv.org/abs/2209.01174) [[code]](https://github.com/Optum/long-medical-document-lms)
 
