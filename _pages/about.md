@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI/ML researcher at Optum AI (formerly [Optum Labs](https://www.optumlabs.com)/UnitedHealth Group R&D). My research focus is the intersection of machine learning and medicine, leveraging electronic health records, physiological waveform signals, genomics, medical imaging data, and clinical text. Additionally, I am interested in causal inference, graphical models, imputation/missing data, and entrepreneurship. 
+I am an AI/ML researcher at Optum AI (formerly [Optum Labs](https://www.optumlabs.com)/UnitedHealth Group R&D). My research focus is the intersection of machine learning and medicine, leveraging electronic health records, physiological waveform signals, genomics, medical imaging data, and clinical text. Additionally, I am interested in large language models, causal inference, graphical models, imputation/missing data, and entrepreneurship. 
 
 I completed my PhD in computer science at UCLA, advised by Professor [Eran Halperin](https://www.eranhalperingenomics.com).
 My prior industry experience includes a summer at [Microsoft Research](https://www.microsoft.com/en-us/research/) interning with [Daniel McDuff](http://alumni.media.mit.edu/~djmcduff/), four years as an intern at Intel under the mentorship of [Gans Srinivasa](https://www.linkedin.com/in/gans-srinivasa-oda/), and three years as the first engineer at Omics Data Automation (now [dātma](https://www.datma.com)) working with Gans. Prior to UCLA, I studied electrical and computer engineering at Oregon State University.
