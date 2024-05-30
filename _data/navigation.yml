@@ -1,21 +1,18 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/BrianHill_CV_20230620.pdf
-  
+    url: /files/BrianHill_CV_20240527.pdf
+
     #- title: "Publications"
     #url: /publications/
 
     #- title: "Talks"
-    #url: /talks/    
+    #url: /talks/
 
     #- title: "Teaching"
-    #url: /teaching/    
-    
+    #url: /teaching/
   - title: "Learning Resources"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
-    
