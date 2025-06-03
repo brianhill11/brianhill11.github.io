@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI/ML scientist at Optum AI (UnitedHealth Group). My research focuses on the intersection of machine learning and medicine, leveraging electronic health records, physiological waveform signals, genomics, medical imaging data, and clinical text. Additionally, I am interested in large language models, causal inference, graphical models, imputation/missing data, and entrepreneurship.
+I am a data scientist at Age Bold, an evidence-based, digital exercise platform for older adults that reduces falls and improves health.
+
+Previously, I was an AI/ML scientist at Optum AI (UnitedHealth Group). My research focuses on the intersection of machine learning and medicine, leveraging electronic health records, physiological waveform signals, genomics, medical imaging data, and clinical text. Additionally, I am interested in large language models, causal inference, graphical models, imputation/missing data, and entrepreneurship.
 
 I completed my PhD in computer science at UCLA, under the guidance of Professor [Eran Halperin](https://www.eranhalperingenomics.com).
 My prior industry experience includes a summer internship at [Microsoft Research](https://www.microsoft.com/en-us/research/)  working with [Daniel McDuff](http://alumni.media.mit.edu/~djmcduff/), four years as an intern at Intel under the mentorship of [Gans Srinivasa](https://www.linkedin.com/in/gans-srinivasa-oda/), and three years as the founding engineer at Omics Data Automation (now [dātma](https://www.datma.com)) working with Gans. Prior to UCLA, I earned my degree in Electrical and Computer Engineering from Oregon State University.
