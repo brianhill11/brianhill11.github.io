@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at Age Bold, an evidence-based, digital exercise platform for older adults that reduces falls and improves health.
+I am a data scientist at [Age Bold](https://www.agebold.com/) - an evidence-based, digital exercise platform for older adults that reduces falls and improves health.
 
 Previously, I was an AI/ML scientist at Optum AI (UnitedHealth Group). My research focuses on the intersection of machine learning and medicine, leveraging electronic health records, physiological waveform signals, genomics, medical imaging data, and clinical text. Additionally, I am interested in large language models, causal inference, graphical models, imputation/missing data, and entrepreneurship.
 
