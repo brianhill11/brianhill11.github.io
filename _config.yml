@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Brian Hill"
 title_separator: "-"
 name: &name "Brian Hill"
-description: &description "AI/ML Scientist at Optum AI (UnitedHealth Group)"
+description: &description "Data Science at Age Bold"
 url: https://brianhill11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "brianhill11/brianhill11.github.io"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name: "Brian Hill"
-  avatar: "profile.png"
-  bio: "AI/ML Scientist at Optum AI (UHG), focused on using machine learning to improve healthcare"
+  avatar: "bio-photo.png"
+  bio: "Data Science at Age Bold, focused on using machine learning to improve healthcare"
   location: "Los Angeles, CA"
   employer:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=brian+l.+hill"
